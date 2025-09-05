@@ -1,7 +1,3 @@
-Here’s a **professional GitHub README.md with emojis + proper formatting** for your **Age Calculator project**:
-
----
-
 # 🧮 Age Calculator
 
 A simple and interactive **web-based Age Calculator** built using **HTML, CSS, and JavaScript**.
